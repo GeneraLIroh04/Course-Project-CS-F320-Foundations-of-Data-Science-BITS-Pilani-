@@ -24,7 +24,7 @@ The supported genres include:
 The project employs KNN and Random Forest models to classify music genres based on audio features.
 
 ## To Clone
-gh repo clone GeneraLIroh04/Course-Project-CS-F320-Foundations-of-Data-Science-BITS-Pilani-
+git clone https://github.com/GeneraLIroh04/Course-Project-CS-F320-Foundations-of-Data-Science-BITS-Pilani-.git
 
 # Dataset link
 You can download the [GTZAN Music Genre Classification Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) from Kaggle.
